@@ -1,4 +1,4 @@
-# Discord MyAnimeList Bot
+# Discord MangaList Bot
 
 Un bot de Discord que integra MyAnimeList, AniList y Kitsu para búsquedas de anime/manga, gestión de listas y recomendaciones aleatorias.
 
