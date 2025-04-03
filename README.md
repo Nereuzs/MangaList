@@ -9,6 +9,6 @@ Un bot de Discord que integra MyAnimeList, AniList y Kitsu para búsquedas de an
 - Randomizador con filtros.
 
 ## Comandos
-- `/search`: Busca contenido.
+- `/anime, /manga`: Busca contenido.
 - `/random`: Recomendación aleatoria.
 - `/login`: Vincula tu cuenta de MyAnimeList.
